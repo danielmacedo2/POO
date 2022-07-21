@@ -11,7 +11,7 @@ class Car {
     }
 
     speed() {
-        console.log(`Car ${this.modelo} getting speed`)
+        console.log(`${this.modelo}is getting speed`)
     }
 
 
